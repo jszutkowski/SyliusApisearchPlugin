@@ -8,7 +8,7 @@
 
         "sylius/sylius": "^1.1|^1.2|~1.3.0@dev",
         "symfony/symfony": "^3.4|^4.1",
-        "jszutkowski/apisearch-bundle": "0.1.13"
+        "jszutkowski/apisearch-bundle": "0.1.14"
     },
     "require-dev": {
         "behat/behat": "^3.4",
