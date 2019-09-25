@@ -1,5 +1,5 @@
 {
-    "name": "apisearch-io/sylius-apisearch-plugin",
+    "name": "jszutkowski/sylius-apisearch-plugin",
     "type": "sylius-plugin",
     "description": "Apisearch plugin for Sylius",
     "license": "MIT",
